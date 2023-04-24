@@ -1,0 +1,17 @@
+{
+    "name": "lahirunirmalx/phptelegram",
+    "description": "This is a class written implement telegram chat-bot",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lahirunirmalx",
+            "email": "lahirunirmalx@gamil.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "phptelegram\\": "src/"
+        }
+    },
+    "require": {}
+}
